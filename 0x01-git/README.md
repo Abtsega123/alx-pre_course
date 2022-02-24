@@ -1,1 +1,1 @@
-My non empty file
+Non empty
